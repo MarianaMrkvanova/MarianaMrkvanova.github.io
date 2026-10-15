@@ -157,9 +157,9 @@ h2 {
   aspect-ratio: 1;
   display: grid;
   place-items: center;
-  border: 1px solid #f2c8d7;
+  border: 1px solid #cfa1b1;
   border-radius: 50%;
-  background: radial-gradient(circle at 40% 35%, #fff 0 12%, #ffe7ef 65%, #fbd5e2 100%);
+  background: radial-gradient(circle at 40% 35%, #dbbdbd 0 12%, #ed9cb7 65%, #fbd5e2 100%);
   box-shadow: 0 24px 70px rgb(201 79 125 / 12%);
 }
 
